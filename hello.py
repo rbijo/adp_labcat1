@@ -4,4 +4,5 @@ factorial = 1
 for i in range(num,1,-1):
     factorial *=i
 print(f"Factorial of {num} is {factorial}")
-print("Just an additional line")
+print("Just an additional line created for demo")
+print("Thank you")
